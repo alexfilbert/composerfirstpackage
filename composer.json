@@ -11,6 +11,7 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "license": "MIT",
     "autoload": {
         "psr-0": {
             "FirstPackage": "src/"
